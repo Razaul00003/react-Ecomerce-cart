@@ -2,7 +2,7 @@ const data = [
   {
     id: 1,
     name: "Infinix Hot 10",
-    Price: 340,
+    price: 340,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-AWGZsde5F5I-rE_JmXztpCNBEcGqQplcU4OdxIeKQ&s",
     details:
@@ -11,7 +11,7 @@ const data = [
   {
     id: 2,
     name: "Infinix Hot 10",
-    Price: 400,
+    price: 400,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1WV9Oxyr5tO9zGTlOomg9JubU5w_C8zGPp-FJiM4G2Q&s",
     details:
@@ -20,7 +20,7 @@ const data = [
   {
     id: 3,
     name: "Ifix Pro Hot 10",
-    Price: 800,
+    price: 800,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6WTjQVYttAweRjU604nrM9WTfvvlryY0EK1kHT6EXzg&s",
     details:
@@ -29,7 +29,7 @@ const data = [
   {
     id: 4,
     name: "Nazroo Hot 10",
-    Price: 240,
+    price: 240,
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNyTzEvSrfseNHf0AyfaGsM_WYEMNOfPAkf2yl4nTuZA&s",
     details:

@@ -12,7 +12,7 @@ function Shop(props) {
 
             <div className="item-content">
               <h2> {item.name} </h2>
-              <h3 className="item-price">{item.price}</h3>
+              <h3 className="item-price"> ${item.price}</h3>
               <p> {item.details} </p>
               <button className="btn btn-buy"> Add to Cart </button>
             </div>
@@ -42,7 +42,8 @@ const Wrapper = styled.div`
     img {
       max-width: 100%;
     }
-    h2 {
+    h2,
+    h3 {
       color: #06283d;
     }
     p {
